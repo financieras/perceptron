@@ -1,5 +1,62 @@
 # MULTILAYER PERCEPTRON
 
+## INSTALACIÓN
+
+```bash
+# Clonar el repositorio con el proyecto 'perceptron'
+
+git clone https://github.com/financieras/perceptron.git
+
+
+# Ir a la carpeta del proyecto
+
+cd perceptron
+
+
+# Crear un entorno virtual llamado '.venv'
+# El nombre lleva punto para que sea oculto y no moleste visualmente
+# Debes estar en la carpeta del proyecto
+
+python3 -m venv .venv
+
+
+# Activar el entorno virtual
+
+source .venv/bin/activate
+# Ahora verás que al inicio del promt pone (.venv)
+
+# Recomendable: actualiza PIP
+
+pip install --upgrade pip
+
+
+# Instalar los paquetes necesarios para el proyecto dentro del entorno virtual
+# Instalar las dependencias listadas en el archivo requirements.txt en tu entorno virtual
+
+pip install -r requirements.txt
+ 
+# Optativo: Listar los paquetes que contiene nuestro entorno virtual
+
+pip list
+
+
+# Instalar Jupyter Lab dentro del entorno virtual
+
+pip install jupyterlab
+
+
+# Entrar a Jupyter Lab
+
+jupyter lab
+
+
+#  Al terminado de trabajar, puedes desactivar el entorno virtual con el comando:
+
+deactivate
+
+```
+
+
 ## FASES
 
 1. PREPROCESADO DE LOS DATOS
