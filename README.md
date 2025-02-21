@@ -3,7 +3,7 @@
 ## INSTALACIÓN
 
 ```bash
-# Clonar el repositorio con el proyecto 'perceptron'
+# Clonar el repositorio del proyecto 'perceptron'
 
 git clone https://github.com/financieras/perceptron.git
 
@@ -35,22 +35,13 @@ pip install --upgrade pip
 
 pip install -r requirements.txt
  
-# Optativo: Listar los paquetes que contiene nuestro entorno virtual
-
-pip list
-
-
-# Instalar Jupyter Lab dentro del entorno virtual
-
-pip install jupyterlab
-
 
 # Entrar a Jupyter Lab
 
 jupyter lab
 
 
-#  Al terminado de trabajar, puedes desactivar el entorno virtual con el comando:
+# Optativo: al terminar de trabajar, desactivar el entorno virtual con el comando:
 
 deactivate
 
