@@ -1,0 +1,290 @@
+[
+    {
+        "hidden_layers": 1,
+        "neurons": 15,
+        "activation": "sigmoid",
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "accuracy": 0.9911504424778761,
+        "loss": 0.05890136110658043
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 15,
+        "activation": "sigmoid",
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.05653779176816423
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 15,
+        "activation": "sigmoid",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.05634905750110051
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 15,
+        "activation": "sigmoid",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.01,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.054337074404187544
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 15,
+        "activation": "relu",
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.0795602285490403
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 15,
+        "activation": "relu",
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "accuracy": 0.9911504424778761,
+        "loss": 0.05146637993628597
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 15,
+        "activation": "relu",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "accuracy": 0.9646017699115044,
+        "loss": 0.08474905560822246
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 15,
+        "activation": "relu",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.01,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.059117001593049466
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 25,
+        "activation": "sigmoid",
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.07031295224206413
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 25,
+        "activation": "sigmoid",
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "accuracy": 0.9646017699115044,
+        "loss": 0.07484927274802519
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 25,
+        "activation": "sigmoid",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.06286342561266704
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 25,
+        "activation": "sigmoid",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.01,
+        "accuracy": 0.9911504424778761,
+        "loss": 0.04265177933697159
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 25,
+        "activation": "relu",
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.07404296611124737
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 25,
+        "activation": "relu",
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "accuracy": 0.9646017699115044,
+        "loss": 0.07689281182037368
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 25,
+        "activation": "relu",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.06653031933843367
+    },
+    {
+        "hidden_layers": 1,
+        "neurons": 25,
+        "activation": "relu",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.01,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.07318962883926775
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 15,
+        "activation": "sigmoid",
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.07810307736261574
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 15,
+        "activation": "sigmoid",
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.07393061424588111
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 15,
+        "activation": "sigmoid",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.06919904575746226
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 15,
+        "activation": "sigmoid",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.01,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.07506846363768716
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 15,
+        "activation": "relu",
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.037293992139551764
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 15,
+        "activation": "relu",
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "accuracy": 0.9646017699115044,
+        "loss": 0.1511156086102468
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 15,
+        "activation": "relu",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.0629752387124853
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 15,
+        "activation": "relu",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.01,
+        "accuracy": 0.9557522123893806,
+        "loss": 0.09076585724930016
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 25,
+        "activation": "sigmoid",
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.08073266909962662
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 25,
+        "activation": "sigmoid",
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "accuracy": 0.9911504424778761,
+        "loss": 0.05008116840079758
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 25,
+        "activation": "sigmoid",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.0668976169882828
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 25,
+        "activation": "sigmoid",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.01,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.07282683565862927
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 25,
+        "activation": "relu",
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "accuracy": 0.9823008849557522,
+        "loss": 0.0724112895190328
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 25,
+        "activation": "relu",
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "accuracy": 0.9911504424778761,
+        "loss": 0.05074908246119756
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 25,
+        "activation": "relu",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.06955301872800998
+    },
+    {
+        "hidden_layers": 2,
+        "neurons": 25,
+        "activation": "relu",
+        "optimizer": "rmsprop",
+        "learning_rate": 0.01,
+        "accuracy": 0.9734513274336283,
+        "loss": 0.12114844195879308
+    }
+]
