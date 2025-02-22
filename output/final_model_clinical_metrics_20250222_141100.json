@@ -1,0 +1,58 @@
+{
+    "default_metrics": {
+        "accuracy": 0.5374735687994361,
+        "sensitivity": 0.6460176991150443,
+        "specificity": 0.35398230088495575,
+        "precision": 0.6283185840707964,
+        "npv": 0.37168141592920356,
+        "f1_score": 0.6370452310717797,
+        "false_negative_rate": 0.35398230088495575,
+        "false_positive_rate": 0.6460176991150443,
+        "diagnostic_odds_ratio": 1.0,
+        "confusion_matrix": {
+            "TP": 5183,
+            "TN": 1680,
+            "FP": 3066,
+            "FN": 2840
+        }
+    },
+    "optimal_thresholds": {
+        "f1": {
+            "threshold": 0.01,
+            "value": 0
+        },
+        "balanced_accuracy": [
+            0.01,
+            0.5
+        ],
+        "sensitivity": [
+            0.01,
+            0.6460176991150443
+        ],
+        "specificity": [
+            0.99,
+            0.4424778761061947
+        ]
+    },
+    "optimal_metrics": {
+        "accuracy": 0.5374735687994361,
+        "sensitivity": 0.6460176991150443,
+        "specificity": 0.35398230088495575,
+        "precision": 0.6283185840707964,
+        "npv": 0.37168141592920356,
+        "f1_score": 0.6370452310717797,
+        "false_negative_rate": 0.35398230088495575,
+        "false_positive_rate": 0.6460176991150443,
+        "diagnostic_odds_ratio": 1.0,
+        "confusion_matrix": {
+            "TP": 5183,
+            "TN": 1680,
+            "FP": 3066,
+            "FN": 2840
+        }
+    },
+    "roc_path": "../output/figures/final_model_roc_20250222_141100.png",
+    "confusion_matrix_default_path": "../output/figures/final_model_confusion_matrix_default_20250222_141100.png",
+    "confusion_matrix_optimal_path": "../output/figures/final_model_confusion_matrix_optimal_20250222_141100.png",
+    "threshold_metrics_path": "../output/figures/final_model_threshold_metrics_20250222_141100.png"
+}

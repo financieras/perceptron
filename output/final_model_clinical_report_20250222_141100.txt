@@ -1,0 +1,54 @@
+================================================================================
+                         INFORME CLÍNICO DEL MODELO                         
+================================================================================
+
+MÉTRICAS CON UMBRAL ESTÁNDAR (0.5)
+----------------------------------------
+Accuracy: 0.5375
+Sensitivity: 0.6460
+Specificity: 0.3540
+Precision: 0.6283
+Npv: 0.3717
+F1_score: 0.6370
+False_negative_rate: 0.3540
+False_positive_rate: 0.6460
+Diagnostic_odds_ratio: 1.0000
+
+MATRIZ DE CONFUSIÓN
+----------------------------------------
+Verdaderos Positivos (TP): 5183
+Verdaderos Negativos (TN): 1680
+Falsos Positivos (FP): 3066
+Falsos Negativos (FN): 2840
+
+UMBRALES ÓPTIMOS
+----------------------------------------
+Para f1: 0.0100 (valor: 0.0000)
+Para balanced_accuracy: 0.0100 (valor: 0.5000)
+Para sensitivity: 0.0100 (valor: 0.6460)
+Para specificity: 0.9900 (valor: 0.4425)
+
+MÉTRICAS CON UMBRAL ÓPTIMO PARA F1 (0.0100)
+----------------------------------------
+Accuracy: 0.5375
+Sensitivity: 0.6460
+Specificity: 0.3540
+Precision: 0.6283
+Npv: 0.3717
+F1_score: 0.6370
+False_negative_rate: 0.3540
+False_positive_rate: 0.6460
+Diagnostic_odds_ratio: 1.0000
+
+INTERPRETACIÓN CLÍNICA
+----------------------------------------
+Sensibilidad: 0.6460 - El modelo identifica correctamente el 64.6% de los casos benignos.
+Especificidad: 0.3540 - El modelo identifica correctamente el 35.4% de los casos malignos.
+
+Valor predictivo positivo: 0.6283 - Cuando el modelo predice 'benigno', acierta el 62.8% de las veces.
+Valor predictivo negativo: 0.3717 - Cuando el modelo predice 'maligno', acierta el 37.2% de las veces.
+
+Tasa de falsos negativos: 0.3540 - El 35.4% de los casos benignos son incorrectamente clasificados como malignos.
+Tasa de falsos positivos: 0.6460 - El 64.6% de los casos malignos son incorrectamente clasificados como benignos.
+
+Odds ratio diagnóstico: 1.00 - Un valor mayor indica mejor capacidad diagnóstica.
